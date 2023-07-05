@@ -1,6 +1,6 @@
 # Dobot_project
 ## 최종 테스트 영상
-<img src="./data/11174b88-e936-4fd0-8ded-8efd62ea2e1e.gif" alt="이미지" width="640" height="320"> <br>
+<img src="./data/11174b88-e936-4fd0-8ded-8efd62ea2e1e.gif" alt="이미지" width="720" height="1280"> <br>
 
 ## Rule
 [Rule](https://github.com/wjdgus2235/Dobot_project/blob/master/data/Rule.pdf)
