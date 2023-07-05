@@ -13,6 +13,7 @@
 $ python3 3_calibration.py --dir calibration_checkerboard/ --width 8 --height 6 --square_size 0.0295
 ```
 #### (calibration_matrix.npy, distortion_coefficients.npy) are created
+[.npy](https://github.com/wjdgus2235/Dobot_project/tree/master/data)
 
 ### aruco pose_estimation
 ```shell
